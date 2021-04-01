@@ -1,8 +1,7 @@
 # Adobe Sign Resource Hub
 
-This repository contains templates for project documentation, ensuring necessary
-legal and contributor documentation is explicit. All sections below in this `README.md`
-should be considered a template for a typical project `README.md`.
+Este repositorio contiene plantillas para la documentación del proyecto, garantizando que la documentación legal y de los contribuyentes sea explícita. 
+Todas las secciones a continuación en este `README.md` deben considerarse una plantilla para un proyecto típico `README.md`.
 
 ## SIGN RESOURCE HUB
 
