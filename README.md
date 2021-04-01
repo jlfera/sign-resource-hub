@@ -8,7 +8,7 @@ should be considered a template for a typical project `README.md`.
 
 Turnkey Adobe Sign Resource Hub
 
-![Screenshot](docs/resource-hub-screenshot-3.png)
+![Screenshot](docs/resource-hub-screenshot.png)
 <!-- <img src="docs/resource-hub-screenshot.png" style="max-width: 450px"> -->
 
 ## Goals
